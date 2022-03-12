@@ -1,11 +1,8 @@
 #include <stdio.h>
 /**
-* Description: Print all possible combinations fo single-digit numbers.
-* Numbers must be separated by commas and a space.
-* You can only use `putchar` to print to console
-* You can only use `putchar` up to four times.
-* You are not allowed to use any variable of type `char`.
-* Return: 0
+*
+*main - main Entry point
+*Return: Always 0 (Success/correct)
 */
 
 int main(void)
