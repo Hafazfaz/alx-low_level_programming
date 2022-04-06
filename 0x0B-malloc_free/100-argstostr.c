@@ -50,4 +50,3 @@ char *argstostr(int ac, char **av)
 
 	return (aout);
 }
-© 2022 GitHub, Inc.
